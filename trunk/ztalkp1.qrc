@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ask.png</file>
+        <file>icons/away.png</file>
+        <file>icons/call.png</file>
+        <file>icons/chat.fading.png</file>
+        <file>icons/chatty.png</file>
+        <file>icons/dnd.png</file>
+        <file>icons/file.fading.png</file>
+        <file>icons/groupclose.png</file>
+        <file>icons/groupopen.png</file>
+        <file>icons/headline.png</file>
+        <file>icons/icondef.xml</file>
+        <file>icons/invisible.png</file>
+        <file>icons/message.fading.png</file>
+        <file>icons/noauth.png</file>
+        <file>icons/offline.png</file>
+        <file>icons/online.dimming.png</file>
+        <file>icons/online.png</file>
+        <file>icons/perr.png</file>
+        <file>icons/system.png</file>
+        <file>icons/xa.png</file>
+    </qresource>
+</RCC>
